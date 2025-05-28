@@ -1,8 +1,6 @@
-# Optima Financial
+## 🚀 Institutional-Grade Crypto Investing for Everyone
 
 ![hero optima](https://github.com/user-attachments/assets/1c8629c1-6c47-4388-8e46-26ac8919ecd4)
-
-## 🚀 Institutional-Grade Crypto Investing for Everyone
 
 **Access institutional-grade crypto investment strategies**  
 with no entry barriers, no lockups, and powerful tax benefits.
