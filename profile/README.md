@@ -3,7 +3,7 @@
 ![hero optima](https://github.com/user-attachments/assets/1c8629c1-6c47-4388-8e46-26ac8919ecd4)
 
 **Access institutional-grade crypto investment strategies**  
-from a $10 minimum, with no lockups and powerful tax benefits.
+from a $10 minimum, with no lockups.
 
 > Professional crypto investing for retail investors.
 
@@ -21,7 +21,6 @@ Publicly offered in 17 countries: Austria, Belgium, Czech Republic, Denmark, Fra
 
 - ✅ Minimum investment from $10 (the AI baskets have higher minimums)  
 - 🔓 No lockups  
-- 💰 Tax-efficient strategies  
 - 💼 Institutional-grade solutions for individual investors
 
 ---
