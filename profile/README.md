@@ -1,8 +1,8 @@
-## 🚀 Rules-Based Crypto Portfolios for Retail Investors
+## 🚀 Institutional-Grade Crypto Investing for Retail Investors
 
 ![hero optima](https://github.com/user-attachments/assets/1c8629c1-6c47-4388-8e46-26ac8919ecd4)
 
-**Tokenized, rules-based crypto investment strategies**  
+**Access institutional-grade crypto investment strategies**  
 from a $10 minimum, with no lockups.
 
 ---
@@ -19,6 +19,7 @@ Publicly offered in 17 countries: Austria, Belgium, Czech Republic, Denmark, Fra
 
 - ✅ Minimum investment from $10 (the AI baskets have higher minimums)  
 - 🔓 No lockups  
+- 💼 Institutional-grade solutions for individual investors
 - 📄 Base prospectus approved by FMA Liechtenstein on 22 May 2026, passported to 16 more European countries
 
 ---
